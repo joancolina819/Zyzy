@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: 930677270870bbf4e968d8ad34cbad58
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: personajeFemeninoZyzyCompleto_0
+    21300002: personajeFemeninoZyzyCompleto_1
+    21300004: personajeFemeninoZyzyCompleto_2
+    21300006: personajeFemeninoZyzyCompleto_3
+    21300008: personajeFemeninoZyzyCompleto_4
+    21300010: personajeFemeninoZyzyCompleto_5
+    21300012: personajeFemeninoZyzyCompleto_6
+    21300014: personajeFemeninoZyzyCompleto_7
+    21300016: personajeFemeninoZyzyCompleto_8
+    21300018: personajeFemeninoZyzyCompleto_9
+    21300020: personajeFemeninoZyzyCompleto_10
+    21300022: personajeFemeninoZyzyCompleto_11
+    21300024: personajeFemeninoZyzyCompleto_12
+    21300026: personajeFemeninoZyzyCompleto_13
+    21300028: personajeFemeninoZyzyCompleto_14
+    21300030: personajeFemeninoZyzyCompleto_15
+    21300032: personajeFemeninoZyzyCompleto_16
+    21300034: personajeFemeninoZyzyCompleto_17
+    21300036: personajeFemeninoZyzyCompleto_18
+    21300038: personajeFemeninoZyzyCompleto_19
+    21300040: personajeFemeninoZyzyCompleto_20
+    21300042: personajeFemeninoZyzyCompleto_21
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 4335
+        width: 185
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c7d68a92d5c43448a25abd8d6e7b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_1
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 4318
+        width: 180
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54e3d5cd058a3746bbaeb50b7096a1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_2
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 4318
+        width: 180
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6619402e32374d49b253969360054e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_3
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 4318
+        width: 185
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024b08fcfe077148a3e9f2edf9c8670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_4
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 4303
+        width: 195
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461fffce5f40c74382027744752bdb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3295
+        width: 185
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bf13082accc24ca2c28bad45bff2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_6
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 3295
+        width: 180
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b1cd6343a8f042a905ff04f40e167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_7
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 3295
+        width: 180
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e6186013b35b54b8adaa2da347262c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_8
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 3295
+        width: 185
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e96e25d627f740a686bab944657b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_9
+      rect:
+        serializedVersion: 2
+        x: 4510
+        y: 3295
+        width: 180
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d446e628cf31144c989bb78fbc04637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2270
+        width: 180
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2aeb4ab8760384bb52e7cb377f5281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_11
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 2318
+        width: 235
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77b8c56a98bbe49ae359369e347ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_12
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2350
+        width: 180
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa47d0347cd3cd4f95deafc2df987be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_13
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 2383
+        width: 197
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6d95e131746254c9b8292d8dc869f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_14
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 2525
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd6d9f9c32a84b4e9cee227f359f1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_15
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1263
+        width: 185
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7cb28e3f37744a890a581b209ceef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_16
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1230
+        width: 202
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70af856cda1be594298ebe3a0718d7a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_17
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1230
+        width: 250
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab2732d9cedd584c91c21e92d1fe7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_18
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1245
+        width: 243
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5298058c989e45902f95c9f173e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_19
+      rect:
+        serializedVersion: 2
+        x: 4478
+        y: 1240
+        width: 245
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371bc679d7a6c145bf20565e1a06d5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 223
+        width: 290
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27827e0c3d4434c9382623be17fea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personajeFemeninoZyzyCompleto_21
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 223
+        width: 340
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c176cf6691a9846a28922759bbc191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f67355e6f88552f4b983dd29a333ebf9
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -19,6 +19,9 @@ public class Player_Atacar : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F)) {
             animator.SetBool("atacar", true);
         }
+        if (Input.GetKeyUp(KeyCode.F)) {
+            animator.SetBool("atacar", false);
+        }
         
     }
 }

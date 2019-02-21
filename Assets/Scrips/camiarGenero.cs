@@ -33,13 +33,13 @@ public class camiarGenero : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Q)&&!esHombre) {
             tf.position = new Vector3(mujer.transform.position.x, mujer.transform.position.y+1, 0);
-            mujer.position = new Vector3(-100, -100, 0);
+            mujer.position = new Vector3(-14.35f, 6f, 0);
             esHombre = true;
             esMujer = false;
         }
         if (Input.GetKeyDown(KeyCode.E)&&!esMujer) {
             mujer.position = new Vector3(tf.position.x, tf.position.y+1, 0);
-            tf.position = new Vector3(-100, -100, 0);
+            tf.position = new Vector3(-14.35f, 6, 0);
             esHombre = false;
             esMujer = true;
     
