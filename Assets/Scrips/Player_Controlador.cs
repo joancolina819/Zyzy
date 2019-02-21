@@ -8,12 +8,16 @@ public class Player_Controlador : MonoBehaviour
     private Rigidbody2D rgb2;
     private Animator animator;
     private float direccion;
-    public static float velocidad = 8;
-    public static float velocidadMax = 10;
+    public  float velocidad;
+    public  float velocidadMax;
+
+    public BoxCollider2D bc2d;
    
+
     // Start is called before the first frame update
     void Start()
     {
+  
         rgb2 = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         
@@ -32,12 +36,13 @@ public class Player_Controlador : MonoBehaviour
         mermarVelocidadX();
         RealizarMovimientoCorrer();
     }
-    private void RealizarMovimientoCorrer() {
+    private void RealizarMovimientoCorrer(){
 
 
         if (Input.GetKey(KeyCode.A))
         {
             direccion = -1;
+            
             rgb2.velocity = new Vector3(velocidad * direccion, rgb2.velocity.y, 0);
             animator.SetFloat("velocidad", Mathf.Abs(rgb2.velocity.x));
         }
@@ -56,9 +61,11 @@ public class Player_Controlador : MonoBehaviour
         else {
             rgb2.transform.localScale = new Vector3(-Mathf.Abs(rgb2.transform.localScale.x), rgb2.transform.localScale.y, rgb2.transform.localScale.z);
         }
+
+
         if (rgb2.velocity.x > velocidadMax)
         {
-            Debug.Log("Entro");
+      
             rgb2.velocity = rgb2.velocity = new Vector3(velocidadMax, rgb2.velocity.y, 0);
         }
         else if (rgb2.velocity.x < -velocidadMax)
@@ -67,9 +74,9 @@ public class Player_Controlador : MonoBehaviour
         }
 
     }
+
     private void mermarVelocidadX() {
        rgb2.velocity = new Vector3((rgb2.velocity.x * 0.5f), rgb2.velocity.y, 0);
-        Debug.Log("entro");
        animator.SetFloat("velocidad", (rgb2.velocity.x * 0.5f));
     }
 }

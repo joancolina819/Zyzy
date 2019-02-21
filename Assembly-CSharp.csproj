@@ -60,8 +60,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\camiarGenero.cs" />
+    <Compile Include="Assets\Scrips\camiarGenero.cs" />
+    <Compile Include="Assets\Scrips\Player_Atacar.cs" />
     <Compile Include="Assets\Scrips\Player_Controlador.cs" />
+    <Compile Include="Assets\Scrips\Player_Saltar.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/Joan David Colina/Desktop/Poryectos Unity/Zyzy/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
